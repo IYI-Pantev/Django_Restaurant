@@ -1,2 +1,2 @@
 # Web application project for a restaurant
-## Build with Django web framework, HTML and CSS
+## Built with Django web framework, HTML and CSS
