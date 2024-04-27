@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+.venv
+*pycache*
+# ignoring specific folders
+/logs
+
+#ignoring file extension types
+*.psd
